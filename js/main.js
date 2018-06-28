@@ -4,3 +4,4 @@ function sum(liczbaPierwsza, liczbaDruga) {
     var result = liczbaPierwsza + liczbaDruga;
     return result;
 }
+console.log ( sum(liczbaPierwsza, liczbaDruga) );
